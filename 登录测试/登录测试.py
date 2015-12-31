@@ -1,7 +1,5 @@
 #!/user/bin/python 
 # -*- coding=utf-8
-# http://www.cnblogs.com/hzhida/archive/2012/08/11/2633974.html
-# http://www.cnblogs.com/hzhida/archive/2012/08/11/2633974.html
 import sys
 import re
 from splinter.browser import Browser
